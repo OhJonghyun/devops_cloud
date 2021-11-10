@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block body %}
+<h1>JonghyunOh's profile</h1>
+<h2>Favourite food</h2>
+<ul>
+    {% for food in like_foods %}
+    <li>{{ food }}</li>
+    {% endfor %}
+</ul>
+{% endblock %}
