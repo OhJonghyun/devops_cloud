@@ -14,7 +14,7 @@ def naver_search(query):
     soup = BeautifulSoup(res.text, "html.parser")
     return [{"title": tag.text} for tag in soup.select(".lst_total .total_tit")]
 
-#"2106416343:AAEbQFCF_ok5ZuG20HKOmCycEnqCpMj8qdg"
+
 
 while True:
     line = input("Enter question (quit: q): ")
