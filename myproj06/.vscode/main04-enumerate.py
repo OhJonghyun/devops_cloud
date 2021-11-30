@@ -7,3 +7,12 @@ for ch in s:
 
 for inx, ch in enumerate(s):
     print(idx, ch)
+
+
+numbers = [
+    [1,2],
+    [3,4],
+    [5,6],
+    [7,8],
+    [9,10],
+]

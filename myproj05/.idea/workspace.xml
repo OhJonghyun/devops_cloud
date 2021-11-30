@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c31cb47-b09f-455b-b376-4db8a82b1e0e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Dev.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mydjango11/.idea/mydjango11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mydjango12/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mydjango12/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mydjango12/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mydjango12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mydjango12/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mydjango12/.idea/mydjango12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mydjango12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproj06/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproj06/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproj06/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproj06/.idea/myproj06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproj06/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproj06/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproj07/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproj07/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproj07/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproj07/.idea/myproj07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproj07/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproj07/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproj08/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproj08/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproj08/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproj08/.idea/myproj08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproj08/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproj08/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproj09/.idea/myproj09.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproj06/.vscode/chapter_filter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../myproj06/.vscode/chapter_filter/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproj06/.vscode/main04-enumerate.py" beforeDir="false" afterPath="$PROJECT_DIR$/../myproj06/.vscode/main04-enumerate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproj07/main01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../myproj07/main01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproj07/main03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../myproj07/main03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproj09/tasks/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../myproj09/tasks/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproj09/tasks/get_currunt_lotto_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../myproj09/tasks/get_currunt_lotto_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproj09/tasks/numbers_add.py" beforeDir="false" afterPath="$PROJECT_DIR$/../myproj09/tasks/numbers_add.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproj09/tasks/predict_lotto_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../myproj09/tasks/predict_lotto_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproj09/tasks/reverse_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/../myproj09/tasks/reverse_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproj09/tasks/test_get_currunt_lotto_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../myproj09/tasks/test_get_currunt_lotto_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproj09/tasks/test_numbers_add.py" beforeDir="false" afterPath="$PROJECT_DIR$/../myproj09/tasks/test_numbers_add.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproj09/tasks/test_predict_lotto_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../myproj09/tasks/test_predict_lotto_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproj09/tasks/test_received_strting.py" beforeDir="false" afterPath="$PROJECT_DIR$/../myproj09/tasks/test_received_strting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproj09/tasks/ya.py" beforeDir="false" afterPath="$PROJECT_DIR$/../myproj09/tasks/ya.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproj09/telegram_mybot01.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="21dJu9GHwrscQSSzyho5dK7tiNv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c31cb47-b09f-455b-b376-4db8a82b1e0e" name="Changes" comment="" />
+      <created>1638265250641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638265250641</updated>
+      <workItem from="1638265252908" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
