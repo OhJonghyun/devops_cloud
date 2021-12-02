@@ -6,6 +6,7 @@
             <div class="col-sm-3 my-3">
                  <div class="card">
                      <a href="/catube/{{ video.pk }}/">
+                         {{ video.thumbnail_file_thumb.url }}
                         <img src="{{ video.thumbnail_file.url }}"
                             alt="{{ video.title }}"
                             class="card-img-top"
