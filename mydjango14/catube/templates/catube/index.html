@@ -5,15 +5,18 @@
         {% for video in video_list %}
             <div class="col-sm-3 my-3">
                  <div class="card">
-                 <img src="{{ video.thumbnail_file.url }}"
-                      alt="{{ video.title }}"
-                      class="card-img-top"
-                 />
-                 <div class="card-body">
-                     <h5 class="card-title">
-                         {{ video.title }}
-                    </h5>
-                 </div>
+                     <a href="/catube/{{ video.pk }}/">
+                        <img src="{{ video.thumbnail_file.url }}"
+                            alt="{{ video.title }}"
+                            class="card-img-top"
+                        />
+                    </a>
+                    <div class="card-body">
+                         <h5 class="card-title">
+                            {{ video.title }}
+                         </h5>
+                    </div>
+                </div>
             </div>
         {% endfor %}
     </div>
