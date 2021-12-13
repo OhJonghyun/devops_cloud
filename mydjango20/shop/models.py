@@ -10,7 +10,15 @@ class TimestampedModel(models.Model):
         abstract = True
 
 
+class Category(TimestampedModel):
+    name = models.CharField(max_length=100, unique=True)
+
+    def __str__(self) -> str:
+        return self.name
+
+
 class Shop(models.Model):
+    category = models.ForeignKey(Category, on_delete=models.CASCADE)
     name = models.CharField(max_length=100, db_index=True)
     description = models.TextField(blank=True)
     telephone = models.CharField(max_length=14,
@@ -20,6 +28,9 @@ class Shop(models.Model):
                                  help_text="입력예) 042-1234-1234")
     tag_set = models.ManyToManyField('Tag', blank=True)
 
+    def __str__(self) -> str:
+        return self.name
+
 
 class Review(TimestampedModel):
     shop = models.ForeignKey(Shop, on_delete=models.CASCADE)
@@ -27,6 +38,8 @@ class Review(TimestampedModel):
     message = models.TextField()
 
 
-
 class Tag(TimestampedModel):
     name = models.CharField(max_length=100, unique=True)
+
+    def __str__(self) -> str:
+        return self.name
