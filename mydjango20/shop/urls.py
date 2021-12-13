@@ -1,7 +1,12 @@
-from django.contirb import admin
-from django.urls import path, include
+from django.urls import path
+
+from shop import views
+
+
+app_name = "shop"
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
-    path('shop/', include('shop.urls')),
+    path("<int:pk>/", views.shop_detail, name="shop_detail"),
+    path("new/", views.shop_new, name="shop_new"),
+    path("", views.shop_list, name="shop_list"),
 ]
